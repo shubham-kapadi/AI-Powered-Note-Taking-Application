@@ -1,0 +1,87 @@
+{
+  "user": {
+    "name": "Niraj",
+    "role": "Creative Knowledge Architect",
+    "focus": "Designing a richer note flow than a standard workspace app",
+    "streak": 16
+  },
+  "notes": [
+    {
+      "id": "note-1",
+      "title": "Product launch blueprint",
+      "content": "Map launch assets, landing page copy, partner outreach and post-launch support checklist.",
+      "category": "Work",
+      "tags": ["launch", "priority"],
+      "pinned": true,
+      "updatedAt": "2026-04-02T08:00:00.000Z"
+    },
+    {
+      "id": "note-2",
+      "title": "Voice AI ideas",
+      "content": "Convert spoken meetings into action items, summaries and follow-up drafts.",
+      "category": "AI",
+      "tags": ["voice", "assistant"],
+      "pinned": false,
+      "updatedAt": "2026-04-01T17:10:00.000Z"
+    }
+  ],
+  "todos": [
+    {
+      "id": "todo-1",
+      "title": "Finish landing page visuals",
+      "priority": "High",
+      "done": false,
+      "dueDate": "2026-04-04"
+    },
+    {
+      "id": "todo-2",
+      "title": "Review calendar event colors",
+      "priority": "Medium",
+      "done": true,
+      "dueDate": "2026-04-03"
+    }
+  ],
+  "recordings": [
+    {
+      "id": "record-1",
+      "title": "Weekly standup clip",
+      "type": "video",
+      "description": "Upload recordings or attach images and keep them searchable.",
+      "createdAt": "2026-04-01T10:00:00.000Z"
+    }
+  ],
+  "voiceNotes": [
+    {
+      "id": "voice-1",
+      "title": "Morning thought",
+      "transcript": "Build a workspace that feels warmer, faster and more personal than a plain note board.",
+      "createdAt": "2026-04-02T06:30:00.000Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "event-1",
+      "title": "Design review",
+      "date": "2026-04-07",
+      "color": "#ff7a59"
+    },
+    {
+      "id": "event-2",
+      "title": "Resume export",
+      "date": "2026-04-12",
+      "color": "#25b79f"
+    }
+  ],
+  "resume": {
+    "name": "Niraj Kumar",
+    "headline": "Frontend Developer & Product Thinker",
+    "summary": "I build expressive interfaces with strong usability, clean visual systems and thoughtful interaction design.",
+    "skills": ["React", "JavaScript", "CSS", "UI Systems"],
+    "experience": "Built dashboard tools, note systems and productivity-focused interfaces for modern web products."
+  },
+  "settings": {
+    "theme": "Aurora",
+    "privacy": "Private workspace",
+    "notifications": true
+  }
+}
