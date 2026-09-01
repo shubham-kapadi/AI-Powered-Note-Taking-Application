@@ -27,7 +27,7 @@ This project helps users create, manage, and enhance notes using AI-powered feat
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-<img width="1905" height="914" alt="image" src="https://github.com/shubham-kapadi/AI-Powered-Note-Taking-Application/blob/main/home_page.png />
+<img width="1905" height="914" alt="image" src="https://github.com/shubham-kapadi/AI-Powered-Note-Taking-Application/blob/main/home_page.png"/>
 
 ### 🔹 Notes & Editor
 <img width="1919" height="923" alt="image" src="https://github.com/shubham-kapadi/AI-Powered-Note-Taking-Application/blob/main/Note_editor.png" />
